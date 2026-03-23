@@ -16,6 +16,8 @@
 **Quest Arena** => Interactive word gussing game using emojis <br>
 **Budget Book** => Track income and expenses efficiently <br>
 
+## Visitor Odometer
+<p align="center"><img src="https://profile-counter.glitch.me/Dhruvi-02/count.svg" alt="Visitor count"></p>
 
 ## 🌐 Contact Info <br>
 LinkedIn: https://www.linkedin.com/in/dhruvi-patel-b64999333 <br>
