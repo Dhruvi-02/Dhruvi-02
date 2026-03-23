@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Analytics <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvi-02&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvi-02" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi-02" height="170"/>
 </p>
 
