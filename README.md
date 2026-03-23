@@ -15,6 +15,8 @@
 **Quest Arena** => Interactive word gussing game using emojis <br>
 **Budget Book** => Track income and expenses efficiently <br>
 
+<br>
+
 ## 📊 GitHub Analytics <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruvi-02&show_icons=true" height="170"/>
@@ -22,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi-02&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi-02"/>
 </p>
 
 <br>
  
 ## 🌐 Contact Info <br>
-LinkedIn: https://www.linkedin.com/in/dhruvi-patel-b64999333
-Email: dhruvi018patel@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhruvi-patel-b64999333 <br>
+E-mail: dhruvi018patel@gmail.com
