@@ -6,6 +6,8 @@
 📚 Currently learning Python Data Structures and Machine Learning <br>
 🌱 An enthusiastic learner, improving skills by continuous learning and practicing <br>
 
+<br>
+
 ## 🛠️ Tech Stack <br>
 <p align="center"><img src="https://skillicons.dev/icons?i=c,html,css,javascript,python"></p> <br>
 
@@ -26,7 +28,5 @@
 <br>
  
 ## 🌐 Contact Info <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruvi-patel-b64999333"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="dhruvi018patel@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-</p>
+LinkedIn: https://www.linkedin.com/in/dhruvi-patel-b64999333
+Email: dhruvi018patel@gmail.com
