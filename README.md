@@ -8,8 +8,10 @@
 
 <br>
 
-## 🛠️ Tech Stack <br>
-<p align="center"><img src="https://skillicons.dev/icons?i=c,html,css,javascript,python"></p> <br>
+## 💻 Tech Stack <br>
+- Languages: C, JavaScript, Python
+- Web Technologies: Html, CSS
+- Tools: Git, GitHub
 
 ## 🚀 Projects <br>
 **Quest Arena** => Interactive word gussing game using emojis <br>
